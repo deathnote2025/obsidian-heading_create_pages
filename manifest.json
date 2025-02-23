@@ -5,6 +5,6 @@
 	"minAppVersion": "0.15.0",
 	"description": "Automatically create new pages based on the headings in your current document, helping you quickly generate a hierarchical structure of notes.",
 	"author": "Deathnote2025 <yazyx88@163.com>",
-	"authorUrl": "https://github.com/deathnote2025/obsidian-heading_create_pages",
+	"authorUrl": "https://github.com/deathnote2025",
 	"isDesktopOnly": false
 }
