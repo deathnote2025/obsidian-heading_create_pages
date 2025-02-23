@@ -1,3 +1,11 @@
+# 插件演示
+
+<video width="600" controls>
+  <source src="assets/demo.mp4" type="video/mp4">
+
+</video>
+
+
 # Heading Create Pages
 
 This plugin for Obsidian (https://obsidian.md) allows you to automatically create new pages based on the headings in your current document. It helps you quickly generate a hierarchical structure of notes from your headings.
