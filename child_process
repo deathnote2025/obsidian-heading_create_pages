@@ -1,0 +1,21 @@
+const { Plugin } = require('obsidian');
+const { exec } = require('child_process');
+
+module.exports = class PythonPlugin extends Plugin {
+  onload() {
+    console.log('Plugin loaded!');
+
+    // 执行 Python 脚本
+    exec('python3 path_to_your_script/script.py arg1 arg2', (error, stdout, stderr) => {
+      if (error) {
+        console.error(`exec error: ${error}`);
+        return;
+      }
+      if (stderr) {
+        console.error(`stderr: ${stderr}`);
+        return;
+      }
+      console.log(`stdout: ${stdout}`);
+    });
+  }
+};
