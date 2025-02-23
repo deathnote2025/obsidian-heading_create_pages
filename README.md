@@ -1,10 +1,5 @@
 # 插件演示
-
-<video width="600" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-
-</video>
-
+![demo](assets/demo.gif)
 
 # Heading Create Pages
 
