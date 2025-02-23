@@ -3,9 +3,8 @@
 	"name": "Heading Create Pages",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Automatically create new pages based on the headings in your current document, helping you quickly generate a hierarchical structure of notes.",
+	"author": "Deathnote2025 <yazyx88@163.com>",
+	"authorUrl": "https://github.com/deathnote2025/obsidian-heading_create_pages",
 	"isDesktopOnly": false
 }
