@@ -1,5 +1,5 @@
 # 插件演示
-![demo](assets/demo.gif)
+![demo](https://github.com/deathnote2025/obsidian-heading_create_pages/blob/main/asset/demo.gif)
 
 # Heading Create Pages
 
